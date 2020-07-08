@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift Unnati REDHAT </h1>
+            <h1>Welcome to basapur </h1>
           </hgroup>
 
 
