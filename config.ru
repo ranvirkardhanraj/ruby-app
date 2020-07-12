@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to devops </h1>
+            <h1>Welcome to Aurangabad </h1>
           </hgroup>
 
 
